@@ -114,8 +114,8 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #d73851;
-  border: 1px solid #d73851;
+  background: #38d79f;
+  border: 1px solid #38d775;
   color: #fff;
 }
 
@@ -152,8 +152,8 @@ a.btn:hover {
 }
 
 .flex-form input[type="submit"] {
-  background: #ef3f5a;
-  border: 1px solid #ef3f5a;
+  background: #3fef97;
+  border: 1px solid #3fefa0;
   color: #fff;
   padding: 0 30px;
   cursor: pointer;
@@ -163,8 +163,8 @@ a.btn:hover {
 }
 
 .flex-form input[type="submit"]:hover {
-  background: #d73851;
-  border: 1px solid #d73851;
+  background: #17d1db;
+  border: 1px solid #38d797;
 }
 
 .flex-form {
